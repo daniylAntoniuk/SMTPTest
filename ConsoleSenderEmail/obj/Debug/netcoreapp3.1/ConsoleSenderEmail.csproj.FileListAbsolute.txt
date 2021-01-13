@@ -1,0 +1,67 @@
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.exe
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csprojAssemblyReference.cache
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.AssemblyInfoInputs.cache
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.AssemblyInfo.cs
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.deps.json
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.runtimeconfig.json
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.runtimeconfig.dev.json
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.dll
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.pdb
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\EASendMail.dll
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csproj.CoreCompileInputs.cache
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csproj.CopyComplete
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.dll
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.pdb
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.genruntimeconfig.cache
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\email-template.html
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\1\index.html
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\6\index.html
+D:\Study\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\21\index.html
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.exe
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\1\index.html
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\21\index.html
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\6\index.html
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\email-template.html
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.deps.json
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.runtimeconfig.json
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.runtimeconfig.dev.json
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.dll
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.pdb
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\EASendMail.dll
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csprojAssemblyReference.cache
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.AssemblyInfoInputs.cache
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.AssemblyInfo.cs
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csproj.CoreCompileInputs.cache
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csproj.CopyComplete
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.dll
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.pdb
+D:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.genruntimeconfig.cache
+d:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\MailKit.dll
+d:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\MimeKit.dll
+d:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+d:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+d:\Study\2019-2020\2019-2020\51. Html CSS PU816\Lesson 9. Email template\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.exe
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\1\index.html
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\21\index.html
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\6\index.html
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\email\email-template.html
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.deps.json
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.runtimeconfig.json
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.runtimeconfig.dev.json
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.dll
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\ConsoleSenderEmail.pdb
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\EASendMail.dll
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csprojAssemblyReference.cache
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.AssemblyInfoInputs.cache
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.AssemblyInfo.cs
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csproj.CoreCompileInputs.cache
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.csproj.CopyComplete
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.dll
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.pdb
+C:\Users\Dan\Desktop\заначки\ConsoleSenderEmail\ConsoleSenderEmail\obj\Debug\netcoreapp3.1\ConsoleSenderEmail.genruntimeconfig.cache
