@@ -18,13 +18,14 @@ namespace ConsoleSenderEmail
                     case 1:
                         {
                             string subfolder = "1";
-                            //Console.Write("Enter subsolder: ");
-                            //subfolder= Console.ReadLine();
-                            //string folder = "email";
-                            //string fileName = "index.html";
-                            //string pathFile = Path.Combine(folder,subfolder,fileName);
+                            Console.Write("Enter subsolder: ");
+                            subfolder = Console.ReadLine();
+                            string folder = "email";
+                            string fileName = "index.html";
+                            string pathFile = Path.Combine(folder, subfolder, fileName);
 
-                            string html = "Hello";//File.ReadAllText(pathFile);
+                            //string html = "Hello";
+                            string html = File.ReadAllText(pathFile);
 
                             using (SMTPSender sender = new SMTPSender())
                             {
