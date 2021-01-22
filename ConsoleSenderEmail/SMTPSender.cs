@@ -59,7 +59,7 @@ namespace ConsoleSenderEmail
                 //client.SendMail(server, message);
 
                 var emailMessage = new MimeMessage();
-                emailMessage.From.Add(new MailboxAddress("Testing", "test@jobjoin.tk"));
+                emailMessage.From.Add(new MailboxAddress("Testing", "noreply@jobjoin.tk"));
                 emailMessage.To.Add(new MailboxAddress("", email));
                 emailMessage.Subject = "hello";
                 emailMessage.Body = new TextPart(MimeKit.Text.TextFormat.Html)
@@ -70,7 +70,7 @@ namespace ConsoleSenderEmail
                 using (var client = new SmtpClient())
                 {
                     await client.ConnectAsync("danik22122005.realhost-free.net", 25, false);
-                    await client.AuthenticateAsync("support@jobjoin.tk", "Qwerty-1");
+                    await client.AuthenticateAsync("noreply@jobjoin.tk", "Qwerty-1");
                     await client.SendAsync(emailMessage);
 
                     await client.DisconnectAsync(true);
